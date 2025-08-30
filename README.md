@@ -19,3 +19,7 @@ To highlight a portion of text inside them, wrap the text with double equal sign
 This is an ==example==
 ```
 ![example](images/example3.png)
+
+## Customization 
+
+You can change the colour of the highlighted code wihin the css file. The simbols used to select the code to highlight the code can also be changed to your liking in the ruby file.
