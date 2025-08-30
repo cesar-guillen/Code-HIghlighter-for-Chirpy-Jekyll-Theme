@@ -22,4 +22,5 @@ This is an ==example==
 
 ## Customization 
 
-You can change the colour of the highlighted code wihin the css file. The simbols used to select the code to highlight the code can also be changed to your liking in the ruby file.
+You can change the colour of the highlighted code wihin the css file. 
+The symbols used to select the code to highlight the code can also be changed to your liking in the ruby file.
