@@ -1,4 +1,4 @@
-# Code-Highlighter-for-Chirpy-Jekyll-Theme
+# Jekyll-Chirpy Code Highlighter
 
 The Chirpy theme does not natively support highlighting text inside code blocks.
 This plugin, together with a small CSS snippet, adds the ability to highlight specific parts of code.
