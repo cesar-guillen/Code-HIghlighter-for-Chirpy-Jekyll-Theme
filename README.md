@@ -11,7 +11,10 @@ This plugin, together with a small CSS snippet, adds the ability to highlight sp
 1. Copy `highlight_code.rb` into your `_plugins` folder.
 2. Copy `highlight_code.css` into `/assets/css/highlight_code.css`
 3. Update `_layouts/post.html` to include the new stylesheet by appending `<link rel="stylesheet" href="{{ '/assets/css/highlight_code.css' | relative_url }}">` at the end of the file
-
+4. Add the required gems to your Gemfile:
+```
+gem "nokogiri"
+```
 ## Usage
 Write your code blocks as usual.
 To highlight a portion of text inside them, wrap the text with double equal signs:
